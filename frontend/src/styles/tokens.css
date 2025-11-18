@@ -1,0 +1,11 @@
+:root {
+  --surface: #f7f9fc;
+  --surface-container: #ffffff;
+  --surface-raised: #f1f3f8;
+  --primary: #1a73e8;
+  --primary-container: #d3e3fd;
+  --outline: #c7d5e5;
+  --text-primary: #1f1f1f;
+  --text-muted: #5f6368;
+  --shadow-soft: 0 24px 50px rgba(14, 30, 37, 0.12);
+}
